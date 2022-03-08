@@ -1,0 +1,158 @@
+@font-face {
+  font-family: "van-icon"; /* Project id 2635013 */
+  src: url('iconfont.woff2?t=1624979701558') format('woff2'),
+       url('iconfont.woff?t=1624979701558') format('woff'),
+       url('iconfont.ttf?t=1624979701558') format('truetype');
+}
+
+.van-icon {
+  font-family: "van-icon" !important;
+  font-size: 22px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.van-icon-fail:before {
+  content: "\e689";
+}
+
+.van-icon-success:before {
+  content: "\e63c";
+}
+
+.van-icon-arrow-left:before {
+  content: "\e74b";
+}
+
+.van-icon-tubiao211:before {
+  content: "\e61c";
+}
+
+.van-icon-mima:before {
+  content: "\e64c";
+}
+
+.van-icon-coupon:before {
+  content: "\e7ee";
+}
+
+.van-icon-position:before {
+  content: "\e610";
+}
+
+.van-icon-message:before {
+  content: "\e614";
+}
+
+.van-icon-location:before {
+  content: "\e640";
+}
+
+.van-icon-me:before {
+  content: "\e61e";
+}
+
+.van-icon-type:before {
+  content: "\e662";
+}
+
+.van-icon-order:before {
+  content: "\e609";
+}
+
+.van-icon-serve:before {
+  content: "\e624";
+}
+
+.van-icon-set:before {
+  content: "\e604";
+}
+
+.van-icon-help:before {
+  content: "\e626";
+}
+
+.van-icon-home:before {
+  content: "\e60b";
+}
+
+.van-icon-arrow:before {
+  content: "\e650";
+}
+
+.van-icon-search:before {
+  content: "\e60f";
+}
+
+.van-icon-send:before {
+  content: "\e61d";
+}
+
+.van-icon-buy:before {
+  content: "\e69c";
+}
+
+.van-icon-book:before {
+  content: "\e60c";
+}
+
+.van-icon-library:before {
+  content: "\e61b";
+}
+
+.van-icon-pay:before {
+  content: "\e600";
+}
+
+.van-icon-finish:before {
+  content: "\e60d";
+}
+
+.van-icon-wait:before {
+  content: "\e63a";
+}
+
+.van-icon-alipay:before {
+  content: "\e60a";
+}
+
+.van-icon-wechat:before {
+  content: "\e68a";
+}
+
+.van-icon-card:before {
+  content: "\e615";
+}
+
+.van-icon-edit:before {
+  content: "\e64f";
+}
+
+.van-icon-volume:before {
+  content: "\e617";
+}
+
+.van-icon-title:before {
+  content: "\e62b";
+}
+
+.van-icon-money:before {
+  content: "\e651";
+}
+
+.van-icon-remark:before {
+  content: "\e648";
+}
+
+.van-icon-calendar:before {
+  content: "\e7e3";
+}
+
+.van-icon-time:before {
+  content: "\e6fc";
+}
+
+.van-icon-receive:before{
+	content: "\e722";
+}
